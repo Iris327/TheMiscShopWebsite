@@ -1,6 +1,20 @@
-.fa-cart-shopping {
-    color: blue
+#navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
-.fa-cart-shopping:hover {
-    color: black
+
+#navbar li {
+    list-style: none;
+    padding: 0 20px;
 }
+
+#navbar li a {
+    text-decoration: none;
+}
+
+#navbar li a:hover {
+    color: black;
+}
+
