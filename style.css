@@ -1,3 +1,16 @@
+#header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 80px;
+    background: grey;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.6);
+}
+
+#logo {
+    text-decoration: none;
+}
+
 #navbar {
     display: flex;
     align-items: center;
