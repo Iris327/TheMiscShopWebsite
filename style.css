@@ -1,3 +1,7 @@
+body {
+    background-color: teal;
+}
+
 #header {
     display: flex;
     align-items: center;
@@ -15,7 +19,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-
 }
 
 #navbar li {
