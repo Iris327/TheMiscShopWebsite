@@ -1,5 +1,9 @@
 body {
-    background-color: teal;
+    background-image: url("D:/the-misc-shop/images/typewriter.avif");
+    height: 100%;
+    width: 100%;
+    background-size: 100%;
+    background-origin: border-box;
 }
 
 #header {
@@ -33,4 +37,7 @@ body {
 #navbar li a:hover {
     color: black;
 }
+
+
+
 
